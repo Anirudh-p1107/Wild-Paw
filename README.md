@@ -36,15 +36,15 @@ After prediction, the animal is classified into a safety category using hardcode
 
 | Animal    | Category |
 |-----------|----------|
-| Lion      | Unsafe   |
 | Bear      | Unsafe   |
-| Elephant  | Safe     |
-| Cat       | Safe     |
-| Sheep     | Safe     |
+| Bobcat    | Unsafe   |
+| Deer      | Safe     |
 | Horse     | Safe     |
 | Fox       | Unsafe   |
-| Mouse     | Safe     |
+| Lion      | Unsafe   |
 | Wolf      | Unsafe   |
+| Mouse     | Safe     |
+| Squirrel  | Safe     |
 | Racoon    | Safe     |
 
 This classification is not part of the trained model but handled in the Flask and Tkinter interfaces.
