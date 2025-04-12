@@ -5,7 +5,7 @@
 </p>
 
 ## Overview
-WildPaw is a deep learning-based project that classifies animals based on their footprint images using a Convolutional Neural Network (CNN). It supports wildlife monitoring, biodiversity research, and smart farming by identifying animals from their footprints. The model is robust to various footprint orientations and includes a UI-based feature that categorizes animals as Safe or Unsafe. A lightweight Flask app is also included for simplified interaction and safety categorization.
+"WildPaw" is a deep learning-based project that classifies animals based on their footprint images using a Convolutional Neural Network (CNN). It supports wildlife monitoring, biodiversity research, and smart farming by identifying animals from their footprints. The model is robust to various footprint orientations and includes a UI-based feature that categorizes animals as Safe or Unsafe. A lightweight Flask app is also included for simplified interaction and safety categorization.
 
 ## Features
 - Footprint classification using CNN.
