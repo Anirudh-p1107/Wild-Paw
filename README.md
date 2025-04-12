@@ -56,7 +56,7 @@ This classification is not part of the trained model but handled in the Flask an
 - Trained in Google Colab with the best model saved as `best_footprint.pth`.
 
 <p align="center">
-  <img src="training_history.png" alt="Training History" height="50%" width="80%">
+  <img src="history.png" alt="Training History" height="50%" width="80%">
 </p>
 
 ## Classification Report
