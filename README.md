@@ -19,11 +19,11 @@
 
 | Class     | Count | Class     | Count |
 |-----------|-------|-----------|-------|
-| Bear      | 50    | Deer      | 50    |
-| Bobcat    | 50    | Horse     | 50    |
-| Fox       | 50    | Lion      | 50    |
-| Mouse     | 50    | Wolf      | 50    |
-| Racoon    | 50    | Squirrel  | 50    |
+| Bear      | 165   | Deer      | 165    |
+| Bobcat    | 165   | Horse     | 165   |
+| Fox       | 165   | Lion      | 165   |
+| Mouse     | 165   | Wolf      | 165   |
+| Racoon    | 165   | Squirrel  | 165   |
 
 ## How It Works
 1. **Input:** A grayscale footprint image.
@@ -92,7 +92,7 @@ A Flask-based interface is included in the project that:
 - Flask for web interface deployment.
 
 ## Dataset Access
-You can access the dataset from the following Google Drive link:  
+You can access the dataset from the following Google Drive link: (Private)
 [Dataset Link](https://drive.google.com/drive/folders/1IRFHcBHRymxSG8y9d05uoPPB4NT8Ednj?usp=drive_link)
 
 ## Results
