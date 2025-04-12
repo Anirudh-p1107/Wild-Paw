@@ -1,7 +1,7 @@
 # WildPaw: Animal Footprint Classification with CNN
 
 <p align="center">
-  <img src="footprint.png" alt="Animal Footprint Classification" height="40%" width="90%">
+  <img src="image.png" alt="Animal Footprint Classification" height="30%" width="90%">
 </p>
 
 ## Overview
